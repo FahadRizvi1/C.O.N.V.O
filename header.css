@@ -1,0 +1,29 @@
+
+/* Basic reset for margins and padding */
+body, header, a, img {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Style for the header */
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1a1a1a; 
+    padding: 25px 0; 
+}
+
+/* Style for the navigation link */
+.nav-link {
+    display: block;
+    text-decoration: none;
+    outline: none; 
+}
+
+/* Style for the navigation logo */
+.nav-logo {
+    width: 250px; 
+    height: auto;
+}
