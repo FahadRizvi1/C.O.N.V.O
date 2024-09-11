@@ -1,4 +1,4 @@
-Real-Time Video Chat Application(C.O.N.V.O)
+# Real-Time Video Chat Application(C.O.N.V.O)
 
 
 This project is a real-time video chat application built using Agora's RTM (Real-Time Messaging) SDK and WebRTC. Users can create or join video chat rooms via a simple user interface.
@@ -22,7 +22,9 @@ Agora RTM: Agora is used to manage room membership and send signaling messages f
 
 
 UI Elements:
+
 #user-1: The local video stream.
+
 #user-2: The remote participant’s video stream.
 Buttons to toggle camera and microphone during the call.
 
